@@ -25,7 +25,7 @@ h3 {
 }
 
 .container-fluid {
-  padding: 7% 15%;
+  padding: 7% 10%;
 }
 
 /* Sections */
@@ -50,6 +50,7 @@ h3 {
   font-weight: bold;
 }
 
+
 .navbar-item {
   padding: 0 18px;
 }
@@ -67,7 +68,7 @@ h3 {
 /* Title section */
 
 #title {
-  padding: 3% 15%;
+  padding: 7% 5%;
   position: relative;
 }
 
@@ -75,6 +76,7 @@ h3 {
   width: 25%;
   transform: rotate(25deg);
   position: absolute;
+  right: 120px;
 }
 
 .title-text {
