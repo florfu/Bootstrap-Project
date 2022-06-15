@@ -1,5 +1,5 @@
-# Bootstrap Project
-Tindog - Website for an app that finds your dog's other half.
+# TINDOG - Bootstrap Project
+Landing page for an app that finds your dog's other half.
 Developed using Bootstrap.
 
 Live demo:
